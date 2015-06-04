@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>46C93547-4E39-4A97-AFD7-2E8E00C9FA25</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestCollection</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91315E908EA9590228AFFEF5E98D07FEFE7EDC8E</key>
+		<string>https://github.com/youxiaomingbai/Cardcollectionviewlayout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestCollection.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91315E908EA9590228AFFEF5E98D07FEFE7EDC8E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/youxiaomingbai/Cardcollectionviewlayout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91315E908EA9590228AFFEF5E98D07FEFE7EDC8E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91315E908EA9590228AFFEF5E98D07FEFE7EDC8E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cardcollectionviewlayout</string>
+		</dict>
+	</array>
+</dict>
+</plist>

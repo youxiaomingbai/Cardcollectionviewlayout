@@ -159,7 +159,7 @@
                         CGFloat normalizedDistance = distance / ACTIVE_DISTANCE;
                         CGFloat zoom               = 1 + self.Zoom*(1 - ABS(normalizedDistance));
                         
-                        attributes.transform3D     = CATransform3DMakeScale(1.4, 1.4, 1.0);
+                        attributes.transform3D     = CATransform3DMakeScale(zoom, zoom, 1.0);
 
                     }
                     
@@ -220,7 +220,7 @@
             CGFloat normalizedDistance = distance / ACTIVE_DISTANCE;
             CGFloat zoom               = 1 + self.Zoom*(1 - ABS(normalizedDistance));
             
-            attributes.transform3D     = CATransform3DMakeScale(1.4, 1.4, 1.0);
+            attributes.transform3D     = CATransform3DMakeScale(zoom, zoom, 1.0);
             
             
             
