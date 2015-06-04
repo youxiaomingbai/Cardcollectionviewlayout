@@ -9,8 +9,8 @@
 
 
 1.实例化：CardLayout *layout=[[CardLayout alloc]init];
-           [layout setDelegate:self];
-  代理返回给控制器当前item.row
+
+           [layout setDelegate:self];//代理返回给控制器当前item.row
   
   
   
