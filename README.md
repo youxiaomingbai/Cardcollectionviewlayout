@@ -1,6 +1,10 @@
 # Cardcollectionviewlayout
 一个自定义的UICollectionviewLayout类 ，可以实现卡片式滚动效果，使用简单 扩展性强。
 
+
+ ![image](https://github.com/youxiaomingbai/Cardcollectionviewlayout/raw/master/example.png)
+
+
 使用方法：
 
 
